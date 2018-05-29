@@ -1,0 +1,499 @@
+[Wed Jun 30 20:02:53 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Wed Jun 30 20:02:53 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Thu Jul 01 04:57:03 2010] [error] [client 67.218.116.163] File does not exist: C:/site/hypergrade.com/robots.txt
+[Thu Jul 01 06:35:44 2010] [error] [client 66.249.65.120] File does not exist: C:/site/hypergrade.com/robots.txt
+[Thu Jul 01 08:52:18 2010] [error] [client 207.46.204.244] File does not exist: C:/site/hypergrade.com/robots.txt
+[Thu Jul 01 12:47:04 2010] [error] [client 72.14.199.153] File does not exist: C:/site/hypergrade.com/robots.txt
+[Thu Jul 01 16:15:00 2010] [error] [client 178.154.163.29] File does not exist: C:/site/hypergrade.com/robots.txt
+[Thu Jul 01 16:24:44 2010] [error] [client 72.14.199.153] File does not exist: C:/site/hypergrade.com/robots.txt
+[Thu Jul 01 18:19:01 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Thu Jul 01 18:19:01 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Thu Jul 01 18:19:01 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Thu Jul 01 18:19:01 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Thu Jul 01 18:22:02 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Thu Jul 01 18:22:02 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Thu Jul 01 18:22:02 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Thu Jul 01 18:22:02 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Fri Jul 02 06:09:43 2010] [error] [client 66.249.68.146] File does not exist: C:/site/hypergrade.com/robots.txt
+[Fri Jul 02 07:58:31 2010] [error] [client 207.42.179.85] File does not exist: C:/site/hancockfaculty.com/phpmyadmin
+[Fri Jul 02 07:58:32 2010] [error] [client 207.42.179.85] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin
+[Fri Jul 02 07:58:33 2010] [error] [client 207.42.179.85] File does not exist: C:/site/hancockfaculty.com/PMA
+[Fri Jul 02 07:58:34 2010] [error] [client 207.42.179.85] File does not exist: C:/site/hancockfaculty.com/pma
+[Fri Jul 02 17:54:00 2010] [error] [client 209.85.238.118] File does not exist: C:/site/hypergrade.com/robots.txt
+[Fri Jul 02 23:24:13 2010] [error] [client 75.128.10.211] script 'C:/site/hancocktools.com/classes/cs122.php' not found or unable to stat
+[Fri Jul 02 23:32:49 2010] [error] [client 75.128.10.211] File does not exist: C:/site/hancocktools.com/cs102/lecture/cs102-topic14.ppt, referer: http://www.hancocktools.com/cs102.php
+[Fri Jul 02 23:32:54 2010] [error] [client 75.128.10.211] File does not exist: C:/site/hancocktools.com/cs102/lecture/cs102-topic14.ppt, referer: http://www.hancocktools.com/cs102.php
+[Sat Jul 03 09:17:37 2010] [error] [client 221.192.199.35] client denied by server configuration: C:/site/hancockfaculty.com/prx2.php
+[Sat Jul 03 13:10:46 2010] [error] [client 66.249.68.146] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sat Jul 03 21:08:00 2010] [error] [client 178.154.163.29] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sat Jul 03 23:42:21 2010] [error] [client 209.85.238.118] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sun Jul 04 05:17:22 2010] [error] [client 66.249.68.146] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sun Jul 04 08:25:20 2010] [error] [client 66.249.71.198] File does not exist: C:/site/hancockfaculty.com/robots.txt
+[Mon Jul 05 00:27:30 2010] [error] [client 71.202.205.242] File does not exist: C:/site/hancocktools.com/cs181/ProblemSet3Solution.zip, referer: http://hypergrade.com/grader/problem_set.php?id=191
+[Mon Jul 05 04:05:07 2010] [error] [client 209.85.238.118] File does not exist: C:/site/hypergrade.com/robots.txt
+[Mon Jul 05 11:02:09 2010] [error] [client 207.46.13.51] File does not exist: C:/site/hypergrade.com/robots.txt
+[Mon Jul 05 13:11:22 2010] [error] [client 178.154.163.29] File does not exist: C:/site/hypergrade.com/robots.txt
+[Tue Jul 06 01:43:45 2010] [error] [client 64.246.161.42] File does not exist: C:/site/hypergrade.com/robots.txt
+[Tue Jul 06 06:18:33 2010] [error] [client 209.85.238.118] File does not exist: C:/site/hypergrade.com/robots.txt
+[Tue Jul 06 13:56:47 2010] [error] [client 70.109.46.34] File does not exist: C:/site/hancocktools.com/cs102/lecture/cs102-topic14.ppt, referer: http://hancocktools.com/cs102.php
+[Tue Jul 06 13:56:53 2010] [error] [client 70.109.46.34] File does not exist: C:/site/hancocktools.com/cs102/lecture/cs102-topic14.ppt, referer: http://hancocktools.com/cs102.php
+[Tue Jul 06 14:37:08 2010] [error] [client 221.192.199.35] client denied by server configuration: C:/site/hancockfaculty.com/prx2.php
+[Tue Jul 06 15:56:31 2010] [error] [client 75.128.10.211] script 'C:/site/hancocktools.com/classes/cs122.php' not found or unable to stat
+[Tue Jul 06 18:02:14 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 06 18:02:14 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 06 18:02:14 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 06 18:02:14 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 06 19:25:06 2010] [error] [client 81.92.226.178] File does not exist: C:/site/hancockfaculty.com/phpmyadmin
+[Tue Jul 06 19:25:36 2010] [error] [client 81.92.226.178] File does not exist: C:/site/hancockfaculty.com/phpmyadmin
+[Tue Jul 06 22:59:40 2010] [error] [client 67.218.116.163] File does not exist: C:/site/hypergrade.com/robots.txt
+[Tue Jul 06 23:31:24 2010] [error] [client 95.130.10.37] File does not exist: C:/site/voxelsoftware.com/robots.txt, referer: http://www.voxelair.net/robots.txt
+[Tue Jul 06 23:31:24 2010] [error] [client 95.130.10.37] File does not exist: C:/site/voxelsoftware.com/robots.txt, referer: http://www.voxelair.net/robots.txt
+[Wed Jul 07 02:30:00 2010] [error] [client 207.46.13.135] File does not exist: C:/site/hypergrade.com/robots.txt
+[Wed Jul 07 06:11:26 2010] [error] [client 81.92.226.178] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin
+[Wed Jul 07 06:11:57 2010] [error] [client 81.92.226.178] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin
+[Wed Jul 07 09:35:12 2010] [error] [client 209.85.238.118] File does not exist: C:/site/hypergrade.com/robots.txt
+[Wed Jul 07 18:43:43 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Wed Jul 07 18:43:43 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Wed Jul 07 18:50:09 2010] [error] [client 209.129.94.61] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /cs102/tile.jpg%3E%3Ch1%20align= HTTP/1.1 to file
+[Wed Jul 07 18:50:31 2010] [error] [client 209.129.94.61] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /cs102/tile.jpg%3Ch1%20align= HTTP/1.1 to file
+[Wed Jul 07 18:51:51 2010] [error] [client 209.129.94.61] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /cs102/tile.jpg%3E%3Ch1%20align= HTTP/1.1 to file
+[Wed Jul 07 18:54:10 2010] [error] [client 209.129.94.61] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /cs102/tile.jpg%3E%3Cp%3E%3Ch1%20align= HTTP/1.1 to file
+[Wed Jul 07 18:55:05 2010] [error] [client 209.129.94.61] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /cs102/tile.jpg%3E%3Cp%3E%20%20%20%20%20%20%20%20%3Ch1%20align= HTTP/1.1 to file
+[Wed Jul 07 20:19:54 2010] [error] [client 178.154.163.29] File does not exist: C:/site/hypergrade.com/robots.txt
+[Wed Jul 07 20:36:28 2010] [error] [client 66.249.68.146] File does not exist: C:/site/hypergrade.com/robots.txt
+[Thu Jul 08 16:54:47 2010] [error] [client 96.31.166.228] File does not exist: C:/site/hypergrade.com/robots.txt
+[Thu Jul 08 17:58:30 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Thu Jul 08 17:58:30 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Thu Jul 08 17:58:30 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Thu Jul 08 17:58:30 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Thu Jul 08 18:05:02 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Thu Jul 08 18:05:02 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Thu Jul 08 18:05:03 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Thu Jul 08 18:05:03 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Thu Jul 08 18:43:57 2010] [error] [client 72.14.199.109] File does not exist: C:/site/hypergrade.com/robots.txt
+[Thu Jul 08 19:06:42 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Thu Jul 08 19:06:42 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Thu Jul 08 19:06:42 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Thu Jul 08 19:06:42 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Thu Jul 08 19:17:25 2010] [error] [client 178.154.163.29] File does not exist: C:/site/hypergrade.com/robots.txt
+[Thu Jul 08 20:04:33 2010] [error] [client 66.249.65.86] File does not exist: C:/site/hypergrade.com/robots.txt
+[Fri Jul 09 11:31:04 2010] [error] [client 81.92.226.178] File does not exist: C:/site/hancockfaculty.com/phpmyadmin
+[Fri Jul 09 11:31:34 2010] [error] [client 81.92.226.178] File does not exist: C:/site/hancockfaculty.com/phpmyadmin
+[Fri Jul 09 14:45:05 2010] [error] [client 71.198.238.16] script 'C:/site/hancocktools.com/classes/cs122.php' not found or unable to stat
+[Fri Jul 09 14:45:07 2010] [error] [client 71.198.238.16] script 'C:/site/hancocktools.com/classes/cs122.php' not found or unable to stat
+[Fri Jul 09 16:26:32 2010] [error] [client 64.246.165.140] File does not exist: C:/site/voxelsoftware.com/robots.txt
+[Fri Jul 09 18:59:31 2010] [error] [client 209.85.238.118] File does not exist: C:/site/hypergrade.com/robots.txt
+[Fri Jul 09 19:03:15 2010] [error] [client 81.92.226.178] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin
+[Fri Jul 09 19:03:45 2010] [error] [client 81.92.226.178] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin
+[Fri Jul 09 19:52:13 2010] [error] [client 66.249.68.166] File does not exist: C:/site/hypergrade.com/robots.txt
+[Fri Jul 09 22:54:33 2010] [error] [client 67.218.116.163] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sat Jul 10 05:07:42 2010] [error] [client 96.31.166.228] File does not exist: C:/site/voxelsoftware.com/robots.txt
+[Sat Jul 10 11:13:06 2010] [error] [client 218.77.129.82] Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Jul 10 11:13:06 2010] [error] [client 218.77.129.82] File does not exist: C:/site/hancockfaculty.com/roundcube
+[Sat Jul 10 11:13:07 2010] [error] [client 218.77.129.82] File does not exist: C:/site/hancockfaculty.com/rc
+[Sat Jul 10 11:13:07 2010] [error] [client 218.77.129.82] File does not exist: C:/site/hancockfaculty.com/mss2
+[Sat Jul 10 11:13:08 2010] [error] [client 218.77.129.82] File does not exist: C:/site/hancockfaculty.com/mail
+[Sat Jul 10 11:13:08 2010] [error] [client 218.77.129.82] File does not exist: C:/site/hancockfaculty.com/mail2
+[Sat Jul 10 11:13:08 2010] [error] [client 218.77.129.82] File does not exist: C:/site/hancockfaculty.com/roundcubemail
+[Sat Jul 10 11:13:09 2010] [error] [client 218.77.129.82] File does not exist: C:/site/hancockfaculty.com/rms
+[Sat Jul 10 11:13:09 2010] [error] [client 218.77.129.82] File does not exist: C:/site/hancockfaculty.com/webmail2
+[Sat Jul 10 11:13:10 2010] [error] [client 218.77.129.82] File does not exist: C:/site/hancockfaculty.com/webmail
+[Sat Jul 10 11:13:10 2010] [error] [client 218.77.129.82] File does not exist: C:/site/hancockfaculty.com/wm
+[Sat Jul 10 11:13:11 2010] [error] [client 218.77.129.82] File does not exist: C:/site/hancockfaculty.com/bin
+[Sat Jul 10 11:13:11 2010] [error] [client 218.77.129.82] File does not exist: C:/site/hancockfaculty.com/roundcubemail-0.1
+[Sat Jul 10 11:13:11 2010] [error] [client 218.77.129.82] File does not exist: C:/site/hancockfaculty.com/roundcubemail-0.2
+[Sat Jul 10 11:13:12 2010] [error] [client 218.77.129.82] File does not exist: C:/site/hancockfaculty.com/roundcube-0.1
+[Sat Jul 10 11:13:12 2010] [error] [client 218.77.129.82] File does not exist: C:/site/hancockfaculty.com/roundcube-0.2
+[Sat Jul 10 11:13:13 2010] [error] [client 218.77.129.82] File does not exist: C:/site/hancockfaculty.com/round
+[Sat Jul 10 11:13:13 2010] [error] [client 218.77.129.82] File does not exist: C:/site/hancockfaculty.com/cube
+[Sat Jul 10 11:13:13 2010] [error] [client 218.77.129.82] Invalid URI in request GET  HTTP/1.1
+[Sat Jul 10 16:29:14 2010] [error] [client 184.73.15.45] File does not exist: C:/site/hancockfaculty.com/icons
+[Sat Jul 10 19:12:36 2010] [error] [client 66.249.68.166] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sat Jul 10 22:46:54 2010] [error] [client 209.85.238.118] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sat Jul 10 22:53:46 2010] [error] [client 67.218.116.163] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sun Jul 11 00:24:26 2010] [error] [client 178.154.163.29] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sun Jul 11 03:38:50 2010] [error] [client 208.71.173.74] File does not exist: C:/site/hancockfaculty.com/themes
+[Sun Jul 11 03:38:51 2010] [error] [client 208.71.173.74] File does not exist: C:/site/hancockfaculty.com/NukeNews
+[Sun Jul 11 04:07:07 2010] [error] [client 92.240.68.153] File does not exist: C:/site/hancockfaculty.com/gif, referer: http://www.altavista.com/image/randomlink
+[Sun Jul 11 15:35:13 2010] [error] [client 71.202.205.242] Provider encountered an error while streaming a REPORT response.  [500, #0]
+[Sun Jul 11 15:35:13 2010] [error] [client 71.202.205.242] A failure occurred while driving the update report editor  [500, #620018]
+[Sun Jul 11 15:35:13 2010] [error] [client 71.202.205.242] Error writing base64 data: APR does not understand this error code  [500, #620018]
+[Sun Jul 11 18:02:55 2010] [error] [client 99.177.105.227] File does not exist: C:/site/hancocktools.com/classes/cs121, referer: http://hancocktools.com/cs121.php
+[Sun Jul 11 19:06:36 2010] [error] [client 66.249.67.68] File does not exist: C:/site/voxelsoftware.com/robots.txt
+[Sun Jul 11 19:11:39 2010] [error] [client 66.249.68.166] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sun Jul 11 19:36:07 2010] [error] [client 217.79.182.245] File does not exist: C:/site/hancockfaculty.com/phpmyadmin
+[Sun Jul 11 19:36:08 2010] [error] [client 217.79.182.245] File does not exist: C:/site/hancockfaculty.com/scripts
+[Sun Jul 11 19:36:08 2010] [error] [client 217.79.182.245] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin
+[Sun Jul 11 19:36:08 2010] [error] [client 217.79.182.245] File does not exist: C:/site/hancockfaculty.com/pma
+[Sun Jul 11 19:36:09 2010] [error] [client 217.79.182.245] File does not exist: C:/site/hancockfaculty.com/myadmin
+[Sun Jul 11 20:35:05 2010] [error] [client 82.0.68.43] File does not exist: C:/site/hancockfaculty.com/phpmyadmin
+[Sun Jul 11 20:35:07 2010] [error] [client 82.0.68.43] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin
+[Sun Jul 11 20:35:08 2010] [error] [client 82.0.68.43] File does not exist: C:/site/hancockfaculty.com/PMA
+[Sun Jul 11 20:35:09 2010] [error] [client 82.0.68.43] File does not exist: C:/site/hancockfaculty.com/pma
+[Sun Jul 11 22:57:03 2010] [error] [client 67.218.116.163] File does not exist: C:/site/hypergrade.com/robots.txt
+[Mon Jul 12 01:31:52 2010] [error] [client 123.172.6.214] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.DFind:)
+[Mon Jul 12 03:15:51 2010] [error] [client 221.192.199.35] client denied by server configuration: C:/site/hancockfaculty.com/prx2.php
+[Mon Jul 12 03:54:47 2010] [error] [client 209.85.238.118] File does not exist: C:/site/hypergrade.com/robots.txt
+[Mon Jul 12 16:05:57 2010] [error] [client 96.247.231.32] File does not exist: C:/site/hancocktools.com/cs102/lecture/cs102-topic14.ppt, referer: http://www.hancocktools.com/cs102.php
+[Mon Jul 12 18:06:33 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Mon Jul 12 18:06:33 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Mon Jul 12 18:06:33 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Mon Jul 12 18:06:33 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Mon Jul 12 18:57:57 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Mon Jul 12 18:57:57 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Mon Jul 12 18:57:57 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Mon Jul 12 18:57:57 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Mon Jul 12 19:05:34 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancockfaculty.com/favicon.ico
+[Mon Jul 12 19:05:47 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancockfaculty.com/favicon.ico
+[Mon Jul 12 19:14:37 2010] [error] [client 209.129.94.61] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /cs102.php%22 HTTP/1.1 to file
+[Mon Jul 12 19:18:30 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancockfaculty.com/pics/back2.png
+[Mon Jul 12 19:18:34 2010] [error] [client 209.129.94.61] Directory index forbidden by Options directive: C:/site/hancockfaculty.com/pics/
+[Mon Jul 12 19:39:51 2010] [error] [client 66.249.68.166] File does not exist: C:/site/hypergrade.com/robots.txt
+[Mon Jul 12 20:09:34 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Mon Jul 12 20:09:34 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Mon Jul 12 23:02:36 2010] [error] [client 67.218.116.163] File does not exist: C:/site/hypergrade.com/robots.txt
+[Tue Jul 13 07:01:13 2010] [error] [client 209.85.238.118] File does not exist: C:/site/hypergrade.com/robots.txt
+[Tue Jul 13 08:54:56 2010] [error] [client 71.117.98.71] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 08:54:56 2010] [error] [client 71.117.98.71] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 08:55:04 2010] [error] [client 71.117.98.71] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 08:55:04 2010] [error] [client 71.117.98.71] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 08:55:37 2010] [error] [client 71.117.98.71] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 08:55:37 2010] [error] [client 71.117.98.71] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 08:56:01 2010] [error] [client 71.117.98.71] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 08:56:01 2010] [error] [client 71.117.98.71] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 17:30:40 2010] [error] [client 209.129.94.96] File does not exist: C:/site/hancocktools.com/cs181/PongSprites.zi, referer: http://hypergrade.com/grader/problem_set.php?id=199
+[Tue Jul 13 17:57:00 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 17:57:00 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 17:57:00 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 17:57:00 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 17:58:22 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 17:58:22 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 17:58:22 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 17:58:22 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 18:15:07 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 18:15:07 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 18:15:07 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 18:15:07 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 19:00:43 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 19:00:43 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 19:28:04 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 19:28:04 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 19:28:04 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 19:28:04 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 19:28:17 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 19:28:17 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 19:28:18 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 19:28:18 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 19:34:00 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 19:34:00 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 19:34:00 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 19:34:00 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 19:40:31 2010] [error] [client 66.249.68.36] File does not exist: C:/site/hypergrade.com/robots.txt
+[Tue Jul 13 19:55:19 2010] [error] [client 99.65.208.157] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 19:55:19 2010] [error] [client 99.65.208.157] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 19:57:11 2010] [error] [client 99.65.208.157] File does not exist: C:/site/hancocktools.com/cs102/lecture/cs102-topic14.ppt
+[Tue Jul 13 19:57:18 2010] [error] [client 99.65.208.157] File does not exist: C:/site/hancocktools.com/cs102/lecture/cs102-topic14.ppt
+[Tue Jul 13 20:03:38 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 20:03:38 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 20:03:38 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 20:03:38 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 20:12:25 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 20:12:25 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 20:12:25 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 20:12:25 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 20:14:54 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 20:14:54 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 20:14:54 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 20:14:54 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 20:17:27 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 20:17:27 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 20:17:27 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 20:17:27 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 20:18:43 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 20:18:43 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 20:18:43 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 20:18:43 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 20:39:01 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 20:39:01 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 20:39:01 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 20:39:01 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 20:45:13 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 20:45:13 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 20:45:13 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Tue Jul 13 20:45:13 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Tue Jul 13 20:55:31 2010] [error] [client 178.154.163.29] File does not exist: C:/site/hypergrade.com/robots.txt
+[Tue Jul 13 21:48:21 2010] [error] [client 69.58.178.29] File does not exist: C:/site/hypergrade.com/robots.txt
+[Tue Jul 13 22:54:34 2010] [error] [client 67.218.116.163] File does not exist: C:/site/hypergrade.com/robots.txt
+[Wed Jul 14 00:53:22 2010] [error] [client 98.108.250.116] File does not exist: C:/site/hancocktools.com/cs102/lecture/cs102-topic14.ppt, referer: http://hancocktools.com/cs102.php
+[Wed Jul 14 01:28:37 2010] [error] [client 38.100.41.67] Directory index forbidden by Options directive: C:/site/hypergrade.com/grader/registration/, referer: http://www.hypergrade.com/grader/registration/divide.php
+[Wed Jul 14 02:56:39 2010] [error] [client 71.202.205.242] Provider encountered an error while streaming a REPORT response.  [500, #0]
+[Wed Jul 14 02:56:39 2010] [error] [client 71.202.205.242] A failure occurred while driving the update report editor  [500, #620018]
+[Wed Jul 14 02:56:39 2010] [error] [client 71.202.205.242] Error writing base64 data: APR does not understand this error code  [500, #620018]
+[Wed Jul 14 09:05:16 2010] [error] [client 66.249.67.68] File does not exist: C:/site/voxelsoftware.com/robots.txt
+[Wed Jul 14 10:43:43 2010] [error] [client 209.85.238.118] File does not exist: C:/site/hypergrade.com/robots.txt
+[Wed Jul 14 17:55:15 2010] [error] [client 66.249.67.68] File does not exist: C:/site/voxelsoftware.com/robots.txt
+[Wed Jul 14 17:58:59 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/cs102/lecture/cs102-topic14.ppt, referer: http://hancocktools.com/cs102.php
+[Wed Jul 14 17:59:03 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/cs102/lecture/cs102-topic14.ppt, referer: http://hancocktools.com/cs102.php
+[Wed Jul 14 17:59:19 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/cs102/lecture/cs102-topic14.ppt, referer: http://hancocktools.com/cs102.php
+[Wed Jul 14 18:42:22 2010] [error] [client 178.154.163.29] File does not exist: C:/site/hypergrade.com/robots.txt
+[Wed Jul 14 19:17:09 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/classes/cs102
+[Wed Jul 14 19:17:12 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/classes/cs102
+[Wed Jul 14 19:17:23 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Wed Jul 14 19:17:23 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Wed Jul 14 19:17:32 2010] [error] [client 209.129.94.61] File does not exist: C:/site/hancocktools.com/classes/cs102
+[Wed Jul 14 19:38:53 2010] [error] [client 66.249.68.172] File does not exist: C:/site/hypergrade.com/robots.txt
+[Wed Jul 14 22:54:33 2010] [error] [client 67.218.116.163] File does not exist: C:/site/hypergrade.com/robots.txt
+[Wed Jul 14 23:40:47 2010] [error] [client 207.46.195.226] File does not exist: C:/site/hypergrade.com/robots.txt
+[Thu Jul 15 00:43:21 2010] [error] [client 209.85.238.118] File does not exist: C:/site/hypergrade.com/robots.txt
+[Thu Jul 15 06:46:14 2010] [error] [client 207.46.204.177] File does not exist: C:/site/hypergrade.com/robots.txt
+[Thu Jul 15 10:41:39 2010] [error] [client 66.249.68.172] File does not exist: C:/site/hypergrade.com/robots.txt
+[Thu Jul 15 14:19:40 2010] [error] [client 178.154.163.29] File does not exist: C:/site/hypergrade.com/robots.txt
+[Thu Jul 15 17:30:33 2010] [error] [client 64.246.161.30] File does not exist: C:/site/hypergrade.com/robots.txt
+[Thu Jul 15 19:15:19 2010] [error] [client 71.102.215.70] script 'C:/site/hancocktools.com/classes.php' not found or unable to stat
+[Thu Jul 15 20:48:26 2010] [error] [client 67.137.255.124] File does not exist: C:/site/hancocktools.com/classes/cs102
+[Thu Jul 15 20:49:02 2010] [error] [client 67.137.255.124] File does not exist: C:/site/hancocktools.com/classes/cs102
+[Thu Jul 15 20:49:40 2010] [error] [client 67.137.255.124] File does not exist: C:/site/hancocktools.com/classes/cs102
+[Thu Jul 15 20:49:51 2010] [error] [client 67.137.255.124] File does not exist: C:/site/hancocktools.com/classes/cs102
+[Thu Jul 15 22:42:04 2010] [error] [client 209.85.238.118] File does not exist: C:/site/hypergrade.com/robots.txt
+[Thu Jul 15 22:53:27 2010] [error] [client 67.218.116.163] File does not exist: C:/site/hypergrade.com/robots.txt
+[Fri Jul 16 04:20:04 2010] [error] [client 71.202.205.242] Provider encountered an error while streaming a REPORT response.  [500, #0]
+[Fri Jul 16 04:20:04 2010] [error] [client 71.202.205.242] A failure occurred while driving the update report editor  [500, #620018]
+[Fri Jul 16 04:20:04 2010] [error] [client 71.202.205.242] Error writing base64 data: APR does not understand this error code  [500, #620018]
+[Fri Jul 16 07:16:14 2010] [error] [client 207.46.199.39] File does not exist: C:/site/hypergrade.com/robots.txt
+[Fri Jul 16 08:15:42 2010] [error] [client 66.249.67.68] File does not exist: C:/site/voxelsoftware.com/robots.txt
+[Fri Jul 16 16:12:09 2010] [error] [client 89.40.168.165] File does not exist: C:/site/hancockfaculty.com/wordtrans
+[Fri Jul 16 19:22:53 2010] [error] [client 66.249.68.71] File does not exist: C:/site/hypergrade.com/robots.txt
+[Fri Jul 16 19:22:53 2010] [error] [client 66.249.68.71] File does not exist: C:/site/hypergrade.com/nkeucqocnhdr.html
+[Fri Jul 16 20:00:14 2010] [error] [client 178.154.163.29] File does not exist: C:/site/hypergrade.com/robots.txt
+[Fri Jul 16 20:27:43 2010] [error] [client 64.134.226.155] File does not exist: C:/site/hancocktools.com/_vti_inf.html
+[Fri Jul 16 20:27:43 2010] [error] [client 64.134.226.155] File does not exist: C:/site/hancocktools.com/_vti_bin
+[Fri Jul 16 22:53:13 2010] [error] [client 67.218.116.163] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sat Jul 17 00:15:04 2010] [error] [client 205.251.121.5] File does not exist: C:/site/voxelsoftware.com/robots.txt
+[Sat Jul 17 00:40:23 2010] [error] [client 69.58.178.30] File does not exist: C:/site/voxelsoftware.com/robots.txt
+[Sat Jul 17 02:49:24 2010] [error] [client 221.192.199.35] client denied by server configuration: C:/site/hancockfaculty.com/prx2.php
+[Sat Jul 17 04:01:13 2010] [error] [client 66.249.67.68] File does not exist: C:/site/voxelsoftware.com/robots.txt
+[Sat Jul 17 10:13:40 2010] [error] [client 209.85.238.118] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sat Jul 17 21:04:32 2010] [error] [client 66.249.67.68] File does not exist: C:/site/voxelsoftware.com/robots.txt
+[Sat Jul 17 22:53:05 2010] [error] [client 67.218.116.163] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sun Jul 18 00:49:13 2010] [error] [client 205.251.121.5] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sun Jul 18 00:49:20 2010] [error] [client 205.251.121.5] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sun Jul 18 00:49:21 2010] [error] [client 205.251.121.5] File does not exist: C:/site/hypergrade.com/grader/registration/application
+[Sun Jul 18 00:49:22 2010] [error] [client 205.251.121.5] Directory index forbidden by Options directive: C:/site/hypergrade.com/grader/registration/
+[Sun Jul 18 00:49:24 2010] [error] [client 205.251.121.5] Directory index forbidden by Options directive: C:/site/hypergrade.com/grader/registration/
+[Sun Jul 18 00:49:25 2010] [error] [client 205.251.121.5] Directory index forbidden by Options directive: C:/site/hypergrade.com/grader/registration/
+[Sun Jul 18 00:49:26 2010] [error] [client 205.251.121.5] Directory index forbidden by Options directive: C:/site/hypergrade.com/grader/registration/
+[Sun Jul 18 00:49:27 2010] [error] [client 205.251.121.5] Directory index forbidden by Options directive: C:/site/hypergrade.com/grader/registration/
+[Sun Jul 18 00:49:33 2010] [error] [client 205.251.121.5] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sun Jul 18 00:49:42 2010] [error] [client 205.251.121.5] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sun Jul 18 00:49:44 2010] [error] [client 205.251.121.5] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sun Jul 18 00:49:49 2010] [error] [client 205.251.121.5] script 'C:/site/hypergrade.com/structure/do_toggle_grade_column.php' not found or unable to stat
+[Sun Jul 18 00:49:50 2010] [error] [client 205.251.121.5] Directory index forbidden by Options directive: C:/site/hypergrade.com/grader/registration/
+[Sun Jul 18 00:49:52 2010] [error] [client 205.251.121.5] Directory index forbidden by Options directive: C:/site/hypergrade.com/grader/registration/
+[Sun Jul 18 01:30:25 2010] [error] [client 66.249.68.146] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sun Jul 18 10:16:44 2010] [error] [client 209.85.238.118] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sun Jul 18 13:03:36 2010] [error] [client 178.154.163.29] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sun Jul 18 14:00:04 2010] [error] [client 207.46.13.135] File does not exist: C:/site/hypergrade.com/robots.txt
+[Sun Jul 18 15:29:17 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpmyadmin
+[Sun Jul 18 15:29:17 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin
+[Sun Jul 18 15:29:18 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/db
+[Sun Jul 18 15:29:18 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/web
+[Sun Jul 18 15:29:19 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/PMA
+[Sun Jul 18 15:29:19 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/dbadmin
+[Sun Jul 18 15:29:19 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/PMA2006
+[Sun Jul 18 15:29:20 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/pma2006
+[Sun Jul 18 15:29:20 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/sqlmanager
+[Sun Jul 18 15:29:21 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/mysqlmanager
+[Sun Jul 18 15:29:21 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/p
+[Sun Jul 18 15:29:21 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/PMA2005
+[Sun Jul 18 15:29:22 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/pma2005
+[Sun Jul 18 15:29:22 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpmanager
+[Sun Jul 18 15:29:22 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/php-myadmin
+[Sun Jul 18 15:29:23 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpmy-admin
+[Sun Jul 18 15:29:23 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:29:24 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/myadmin
+[Sun Jul 18 15:29:24 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/webadmin
+[Sun Jul 18 15:29:24 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/sqlweb
+[Sun Jul 18 15:29:25 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/websql
+[Sun Jul 18 15:29:25 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/webdb
+[Sun Jul 18 15:29:26 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/mysqladmin
+[Sun Jul 18 15:29:26 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/mysql-admin
+[Sun Jul 18 15:29:26 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpmyadmin2
+[Sun Jul 18 15:29:27 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin2
+[Sun Jul 18 15:29:27 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2
+[Sun Jul 18 15:29:27 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/php-my-admin
+[Sun Jul 18 15:29:28 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.2.3
+[Sun Jul 18 15:29:28 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.2.6
+[Sun Jul 18 15:29:29 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.1
+[Sun Jul 18 15:29:29 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.4
+[Sun Jul 18 15:29:29 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.5-rc1
+[Sun Jul 18 15:29:30 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.5-rc2
+[Sun Jul 18 15:29:30 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.5
+[Sun Jul 18 15:29:31 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.5-pl1
+[Sun Jul 18 15:29:31 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.6-rc1
+[Sun Jul 18 15:29:31 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.6-rc2
+[Sun Jul 18 15:29:32 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.6
+[Sun Jul 18 15:29:32 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.7
+[Sun Jul 18 15:29:32 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.7-pl1
+[Sun Jul 18 15:29:33 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-alpha
+[Sun Jul 18 15:29:33 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-alpha2
+[Sun Jul 18 15:29:34 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-beta1
+[Sun Jul 18 15:29:34 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-beta2
+[Sun Jul 18 15:29:34 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-rc1
+[Sun Jul 18 15:29:35 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-rc2
+[Sun Jul 18 15:29:35 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-rc3
+[Sun Jul 18 15:29:36 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0
+[Sun Jul 18 15:29:36 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-pl1
+[Sun Jul 18 15:29:36 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-pl2
+[Sun Jul 18 15:29:37 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-pl3
+[Sun Jul 18 15:29:37 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.1-rc1
+[Sun Jul 18 15:29:37 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.1-rc2
+[Sun Jul 18 15:29:38 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.1
+[Sun Jul 18 15:29:38 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.1-pl1
+[Sun Jul 18 15:29:39 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.1-pl2
+[Sun Jul 18 15:29:39 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.1-pl3
+[Sun Jul 18 15:29:39 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.2-rc1
+[Sun Jul 18 15:29:40 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.2-beta1
+[Sun Jul 18 15:29:40 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.2
+[Sun Jul 18 15:29:41 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.2-pl1
+[Sun Jul 18 15:29:41 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.3-rc1
+[Sun Jul 18 15:29:41 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.3
+[Sun Jul 18 15:29:42 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.3-pl1
+[Sun Jul 18 15:29:42 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.4-rc1
+[Sun Jul 18 15:29:42 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.4-pl1
+[Sun Jul 18 15:29:43 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.4-pl2
+[Sun Jul 18 15:29:43 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.4-pl3
+[Sun Jul 18 15:29:44 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.4-pl4
+[Sun Jul 18 15:29:44 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.4
+[Sun Jul 18 15:29:44 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.7.0-beta1
+[Sun Jul 18 15:29:45 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.7.0-rc1
+[Sun Jul 18 15:29:45 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.7.0-pl1
+[Sun Jul 18 15:29:45 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.7.0-pl2
+[Sun Jul 18 15:29:46 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.7.0
+[Sun Jul 18 15:29:46 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.0-beta1
+[Sun Jul 18 15:29:47 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.0-rc1
+[Sun Jul 18 15:29:47 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.0-rc2
+[Sun Jul 18 15:29:47 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.0
+[Sun Jul 18 15:29:48 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.0.1
+[Sun Jul 18 15:29:48 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.0.2
+[Sun Jul 18 15:29:49 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.0.3
+[Sun Jul 18 15:29:49 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.0.4
+[Sun Jul 18 15:29:49 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.1-rc1
+[Sun Jul 18 15:29:50 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.1
+[Sun Jul 18 15:29:50 2010] [error] [client 77.46.30.42] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.2
+[Sun Jul 18 15:29:51 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:51 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:52 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:52 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:52 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:53 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:53 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:54 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:54 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:54 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:55 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:55 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:55 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:56 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:56 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:57 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:57 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:57 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:58 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:58 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:59 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:59 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:29:59 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:00 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:00 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:01 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:01 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:01 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:02 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:02 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:02 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:03 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:03 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:04 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:04 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:04 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:05 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:05 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:05 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:06 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:06 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:07 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:07 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:07 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:08 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:08 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:09 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:09 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:09 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:10 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:10 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:11 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:11 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:11 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:12 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:12 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:12 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:13 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:13 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:14 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:14 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:14 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:15 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:15 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:15 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:16 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:16 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:17 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:17 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:17 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:18 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:18 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:19 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:19 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:19 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:20 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:20 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:21 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:21 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:21 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:22 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:22 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:22 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:23 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:23 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:24 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:24 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:24 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/admin
+[Sun Jul 18 15:30:25 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:25 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:26 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:26 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:26 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:27 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:27 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:27 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:28 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:28 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:29 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:29 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:29 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:30 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:30 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:31 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:31 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:31 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:32 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:32 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:32 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:33 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:33 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:34 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:34 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:34 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:35 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:35 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql
+[Sun Jul 18 15:30:36 2010] [error] [client 77.46.30.42] client denied by server configuration: C:/site/hancockfaculty.com/mysql

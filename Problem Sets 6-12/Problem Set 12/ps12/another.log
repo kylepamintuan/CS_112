@@ -1,0 +1,478 @@
+[Mon May 09 01:51:08 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysqladmin
+[Mon May 09 01:51:08 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql-admin
+[Mon May 09 01:51:08 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpmyadmin2
+[Mon May 09 01:51:08 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin2
+[Mon May 09 01:51:09 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2
+[Mon May 09 01:51:09 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/php-my-admin
+[Mon May 09 01:51:09 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.2.3
+[Mon May 09 01:51:09 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.2.6
+[Mon May 09 01:51:09 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.1
+[Mon May 09 01:51:09 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.4
+[Mon May 09 01:51:09 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.5-rc1
+[Mon May 09 01:51:09 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.5-rc2
+[Mon May 09 01:51:09 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.5
+[Mon May 09 01:51:09 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.5-pl1
+[Mon May 09 01:51:09 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.6-rc1
+[Mon May 09 01:51:09 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.6-rc2
+[Mon May 09 01:51:09 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.6
+[Mon May 09 01:51:09 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.7
+[Mon May 09 01:51:10 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.7-pl1
+[Mon May 09 01:51:10 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-alpha
+[Mon May 09 01:51:10 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-alpha2
+[Mon May 09 01:51:10 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-beta1
+[Mon May 09 01:51:10 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-beta2
+[Mon May 09 01:51:10 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-rc1
+[Mon May 09 01:51:10 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-rc2
+[Mon May 09 01:51:10 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-rc3
+[Mon May 09 01:51:10 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0
+[Mon May 09 01:51:10 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-pl1
+[Mon May 09 01:51:10 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-pl2
+[Mon May 09 01:51:10 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-pl3
+[Mon May 09 01:51:10 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.1-rc1
+[Mon May 09 01:51:11 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.1-rc2
+[Mon May 09 01:51:11 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.1
+[Mon May 09 01:51:11 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.1-pl1
+[Mon May 09 01:51:11 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.1-pl2
+[Mon May 09 01:51:11 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.1-pl3
+[Mon May 09 01:51:11 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.2-rc1
+[Mon May 09 01:51:11 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.2-beta1
+[Mon May 09 01:51:11 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.2
+[Mon May 09 01:51:11 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.2-pl1
+[Mon May 09 01:51:11 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.3-rc1
+[Mon May 09 01:51:11 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.3
+[Mon May 09 01:51:11 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.3-pl1
+[Mon May 09 01:51:11 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.4-rc1
+[Mon May 09 01:51:11 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.4-pl1
+[Mon May 09 01:51:12 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.4-pl2
+[Mon May 09 01:51:12 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.4-pl3
+[Mon May 09 01:51:12 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.4-pl4
+[Mon May 09 01:51:12 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.4
+[Mon May 09 01:51:12 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.7.0-beta1
+[Mon May 09 01:51:12 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.7.0-rc1
+[Mon May 09 01:51:12 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.7.0-pl1
+[Mon May 09 01:51:12 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.7.0-pl2
+[Mon May 09 01:51:12 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.7.0
+[Mon May 09 01:51:12 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.0-beta1
+[Mon May 09 01:51:12 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.0-rc1
+[Mon May 09 01:51:12 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.0-rc2
+[Mon May 09 01:51:12 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.0
+[Mon May 09 01:51:12 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.0.1
+[Mon May 09 01:51:13 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.0.2
+[Mon May 09 01:51:13 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.0.3
+[Mon May 09 01:51:13 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.0.4
+[Mon May 09 01:51:13 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.1-rc1
+[Mon May 09 01:51:13 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.1
+[Mon May 09 01:51:13 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.8.2
+[Mon May 09 01:51:13 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:13 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:13 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:13 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:13 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:13 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:13 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:14 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:14 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:14 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:14 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:14 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:14 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:14 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:14 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:14 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:14 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:14 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:14 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:14 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:14 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:15 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:15 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:15 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:15 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:15 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:15 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:15 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:15 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:15 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:15 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:15 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:15 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:15 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:15 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:15 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:15 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:15 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/dbmain.php' not found or unable to stat
+[Mon May 09 01:51:15 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/dbadminmain.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/myadminmain.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/mysqlmain.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/mysqladminmain.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/typo3
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/phpadminmain.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/phpmyadminmain.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/phpmyadmin1main.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/phpmyadmin2main.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/p
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/pmamain.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/portal
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/cms
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/clan
+[Mon May 09 01:51:16 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/site
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/seite
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/page
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/forum
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/wbb2
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/board
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/php
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/php
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/php
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/portal
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/wbb
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/archive
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/forumv2
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:17 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/forumv1
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpmyadmin
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/db
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/web
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/PMA
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/dbadmin
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/PMA2006
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/pma2006
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sqlmanager
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysqlmanager
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/p
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/PMA2005
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:18 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/pma2005
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpmanager
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/php-myadmin
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpmy-admin
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/myadmin
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/webadmin
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sqlweb
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/websql
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/webdb
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysqladmin
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql-admin
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpmyadmin2
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin2
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:19 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/php-my-admin
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.2.3
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.2.6
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.1
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.4
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.5-rc1
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.5-rc2
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.5
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.5-pl1
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.6-rc1
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.6-rc2
+[Mon May 09 01:51:20 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:27 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:28 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:29 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:30 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:51:31 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/sql
+[Mon May 09 01:51:32 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:52:04 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/PMA
+[Mon May 09 01:52:04 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysql
+[Mon May 09 01:52:04 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/xampp
+[Mon May 09 01:52:04 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/typo3
+[Mon May 09 01:52:04 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/mysqladmin
+[Mon May 09 01:52:04 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:52:04 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/db
+[Mon May 09 01:52:04 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/dbadmin
+[Mon May 09 01:52:04 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/web
+[Mon May 09 01:52:04 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:52:04 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:52:04 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpmyadmin2
+[Mon May 09 01:52:05 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpmyadmin1
+[Mon May 09 01:52:05 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpadmin
+[Mon May 09 01:52:05 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/myadmin
+[Mon May 09 01:52:05 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.2.3
+[Mon May 09 01:52:05 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.6
+[Mon May 09 01:52:05 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.5.7-pl1
+[Mon May 09 01:52:05 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0
+[Mon May 09 01:52:05 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.0-pl3
+[Mon May 09 01:52:05 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.1-pl3
+[Mon May 09 01:52:05 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.3-pl1
+[Mon May 09 01:52:05 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin
+[Mon May 09 01:52:05 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin
+[Mon May 09 01:52:05 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin
+[Mon May 09 01:52:06 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin
+[Mon May 09 01:52:06 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.6.4
+[Mon May 09 01:52:06 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin
+[Mon May 09 01:52:06 2011] [error] [client 207.182.98.19] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin-2.2.7-pl1
+[Mon May 09 01:52:06 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:52:06 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:52:06 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:52:06 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:52:06 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:52:06 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:52:06 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:52:07 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:52:07 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:52:07 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 01:52:07 2011] [error] [client 207.182.98.19] script 'C:/site/hancockfaculty.com/bye.php' not found or unable to stat
+[Mon May 09 04:03:44 2011] [error] [client 66.249.72.7] File does not exist: C:/site/hypergrade.com/robots.txt
+[Mon May 09 06:30:08 2011] [error] [client 66.249.68.239] File does not exist: C:/site/hypergrade.com/robots.txt
+[Mon May 09 06:31:20 2011] [error] [client 69.58.178.57] File does not exist: C:/site/hypergrade.com/robots.txt
+[Mon May 09 06:31:39 2011] [error] [client 69.58.178.57] File does not exist: C:/site/hypergrade.com/robots.txt
+[Mon May 09 10:34:10 2011] [error] [client 95.108.158.234] File does not exist: C:/site/hypergrade.com/robots.txt
+[Mon May 09 11:00:41 2011] [error] [client 50.17.38.28] File does not exist: C:/site/hancockfaculty.com/icons
+[Mon May 09 11:22:50 2011] [error] [client 66.249.67.129] File does not exist: C:/site/hypergrade.com/robots.txt
+[Mon May 09 12:17:21 2011] [error] [client 67.195.114.243] File does not exist: C:/site/hypergrade.com/robots.txt
+[Mon May 09 17:22:27 2011] [error] [client 184.73.65.31] File does not exist: C:/site/hancockfaculty.com/icons
+[Mon May 09 19:20:49 2011] [error] [client 166.205.137.182] File does not exist: C:/site/hypergrade.com/crossdomain.xml
+[Mon May 09 19:29:58 2011] [error] [client 166.205.137.182] File does not exist: C:/site/hypergrade.com/crossdomain.xml
+[Mon May 09 20:46:28 2011] [error] [client 209.129.94.96] File does not exist: C:/site/hancocktools.com/cs121/dothis
+[Mon May 09 20:46:35 2011] [error] [client 209.129.94.96] File does not exist: C:/site/hancocktools.com/cs121/dothis.htm
+[Mon May 09 20:57:53 2011] [error] [client 50.19.53.26] File does not exist: C:/site/hancockfaculty.com/icons
+[Mon May 09 21:29:41 2011] [error] [client 166.205.138.49] File does not exist: C:/site/hypergrade.com/crossdomain.xml
+[Mon May 09 21:34:22 2011] [error] [client 166.205.138.49] File does not exist: C:/site/hancocktools.com/crossdomain.xml
+[Mon May 09 21:42:14 2011] [error] [client 166.205.138.49] File does not exist: C:/site/hypergrade.com/crossdomain.xml
+[Mon May 09 22:49:12 2011] [error] [client 66.249.68.239] File does not exist: C:/site/hypergrade.com/robots.txt
+[Tue May 10 01:35:50 2011] [error] [client 66.249.67.91] File does not exist: C:/site/hypergrade.com/robots.txt
+[Tue May 10 01:45:26 2011] [error] [client 124.115.6.17] File does not exist: C:/site/voxelsoftware.com/robots.txt
+[Tue May 10 02:43:07 2011] [error] [client 123.125.71.83] File does not exist: C:/site/hypergrade.com/robots.txt
+[Tue May 10 02:56:51 2011] [error] [client 123.125.71.73] File does not exist: C:/site/hancockfaculty.com/robots.txt
+[Tue May 10 03:52:53 2011] [error] [client 123.125.71.88] File does not exist: C:/site/voxelsoftware.com/robots.txt
+[Tue May 10 05:08:41 2011] [error] [client 95.108.150.235] File does not exist: C:/site/hypergrade.com/robots.txt
+[Tue May 10 05:08:41 2011] [error] [client 95.108.150.235] File does not exist: C:/site/hypergrade.com/robots.txt
+[Tue May 10 09:18:00 2011] [error] [client 195.54.162.34] Directory index forbidden by Options directive: C:/site/hypergrade.com/grader/teacher/, referer: http://www.hypergrade.com/
+[Tue May 10 10:23:03 2011] [error] [client 95.108.158.234] File does not exist: C:/site/hypergrade.com/robots.txt
+[Tue May 10 13:55:38 2011] [error] [client 174.253.246.166] Directory index forbidden by Options directive: C:/site/hancocktools.com/cs121/
+[Tue May 10 16:17:35 2011] [error] [client 173.13.171.5] File does not exist: C:/site/hypergrade.com/crossdomain.xml
+[Tue May 10 16:29:16 2011] [error] [client 173.13.171.5] File does not exist: C:/site/hancocktools.com/crossdomain.xml
+[Tue May 10 16:30:11 2011] [error] [client 173.13.171.5] File does not exist: C:/site/hancocktools.com/crossdomain.xml
+[Tue May 10 16:39:12 2011] [error] [client 173.13.171.5] File does not exist: C:/site/hancocktools.com/crossdomain.xml
+[Tue May 10 16:39:36 2011] [error] [client 173.13.171.5] File does not exist: C:/site/hancocktools.com/crossdomain.xml
+[Tue May 10 17:09:23 2011] [error] [client 67.195.111.41] File does not exist: C:/site/voxelsoftware.com/robots.txt
+[Tue May 10 17:14:51 2011] [error] [client 173.13.171.5] File does not exist: C:/site/hypergrade.com/crossdomain.xml
+[Tue May 10 17:23:23 2011] [error] [client 173.13.171.5] File does not exist: C:/site/hancocktools.com/crossdomain.xml
+[Tue May 10 18:15:28 2011] [error] [client 173.13.171.5] File does not exist: C:/site/hancocktools.com/crossdomain.xml
+[Tue May 10 18:15:38 2011] [error] [client 173.13.171.5] File does not exist: C:/site/hancocktools.com/crossdomain.xml
+[Tue May 10 18:36:27 2011] [error] [client 173.13.171.5] File does not exist: C:/site/hypergrade.com/crossdomain.xml
+[Tue May 10 18:38:41 2011] [error] [client 173.13.171.5] File does not exist: C:/site/hancocktools.com/crossdomain.xml
+[Tue May 10 18:39:00 2011] [error] [client 173.13.171.5] File does not exist: C:/site/hancocktools.com/crossdomain.xml
+[Tue May 10 18:39:40 2011] [error] [client 173.13.171.5] File does not exist: C:/site/hancocktools.com/crossdomain.xml
+[Tue May 10 19:00:05 2011] [error] [client 173.13.171.5] File does not exist: C:/site/hypergrade.com/crossdomain.xml
+[Tue May 10 19:00:16 2011] [error] [client 24.7.109.56] Directory index forbidden by Options directive: C:/site/hancocktools.com/cs121/
+[Tue May 10 19:00:17 2011] [error] [client 50.16.164.217] Directory index forbidden by Options directive: C:/site/hancocktools.com/cs121/
+[Tue May 10 19:21:05 2011] [error] [client 70.89.104.61] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin
+[Tue May 10 22:08:31 2011] [error] [client 85.114.128.137] (20024)The given path is misformatted or contained invalid characters: Cannot map GET /w00tw00t.at.blackhats.romanian.anti-sec:) HTTP/1.1 to file
+[Tue May 10 22:08:31 2011] [error] [client 85.114.128.137] File does not exist: C:/site/hancockfaculty.com/phpMyAdmin
+[Tue May 10 22:08:32 2011] [error] [client 85.114.128.137] File does not exist: C:/site/hancockfaculty.com/phpmyadmin
+[Tue May 10 22:08:32 2011] [error] [client 85.114.128.137] File does not exist: C:/site/hancockfaculty.com/pma
+[Tue May 10 22:08:32 2011] [error] [client 85.114.128.137] File does not exist: C:/site/hancockfaculty.com/myadmin
+[Tue May 10 22:08:33 2011] [error] [client 85.114.128.137] File does not exist: C:/site/hancockfaculty.com/MyAdmin
+[Wed May 11 03:29:43 2011] [error] [client 195.54.162.34] Directory index forbidden by Options directive: C:/site/hypergrade.com/grader/teacher/, referer: http://www.hypergrade.com/grader/teacher/
+[Wed May 11 03:29:45 2011] [error] [client 195.54.162.34] File does not exist: C:/site/hypergrade.com/grader/teacher/grader, referer: http://www.hypergrade.com/grader/registration/quick_reg.php
+[Wed May 11 03:29:46 2011] [error] [client 195.54.162.34] File does not exist: C:/site/hypergrade.com/teacher, referer: http://www.hypergrade.com/teacher/grader/registration/quick_reg.php
+[Wed May 11 04:26:06 2011] [error] [client 207.46.204.239] File does not exist: C:/site/hypergrade.com/robots.txt
+[Wed May 11 06:46:42 2011] [error] [client 67.195.114.243] File does not exist: C:/site/hypergrade.com/robots.txt
+[Wed May 11 09:15:29 2011] [error] [client 95.108.151.244] File does not exist: C:/site/hypergrade.com/robots.txt
+[Wed May 11 09:15:30 2011] [error] [client 95.108.151.244] File does not exist: C:/site/hypergrade.com/robots.txt
+[Wed May 11 09:16:06 2011] [error] [client 95.108.151.244] File does not exist: C:/site/hypergrade.com/robots.txt
+[Wed May 11 10:11:19 2011] [error] [client 195.54.163.28] Directory index forbidden by Options directive: C:/site/hypergrade.com/grader/teacher/, referer: http://www.hypergrade.com/
+[Wed May 11 16:34:09 2011] [error] [client 66.249.67.193] File does not exist: C:/site/hypergrade.com/robots.txt
+[Wed May 11 17:49:58 2011] [error] [client 207.46.195.223] File does not exist: C:/site/hypergrade.com/robots.txt
+[Wed May 11 20:06:24 2011] [error] [client 67.195.111.41] File does not exist: C:/site/voxelsoftware.com/robots.txt
+[Wed May 11 20:33:40 2011] [error] [client 66.249.68.217] File does not exist: C:/site/hypergrade.com/robots.txt
+[Wed May 11 20:33:43 2011] [error] [client 66.249.68.239] File does not exist: C:/site/hypergrade.com/robots.txt
+[Wed May 11 20:54:06 2011] [error] [client 119.235.237.17] File does not exist: C:/site/voxelsoftware.com/robots.txt
+[Wed May 11 21:45:40 2011] [error] [client 166.205.136.222] File does not exist: C:/site/hancocktools.com/crossdomain.xml
+[Wed May 11 23:00:29 2011] [error] [client 166.205.136.205] File does not exist: C:/site/hancocktools.com/crossdomain.xml
+[Wed May 11 23:29:20 2011] [error] [client 166.205.136.205] File does not exist: C:/site/hancocktools.com/crossdomain.xml
+[Wed May 11 23:52:52 2011] [error] [client 69.58.178.57] File does not exist: C:/site/voxelsoftware.com/robots.txt
+[Thu May 12 00:03:17 2011] [error] [client 66.249.67.210] File does not exist: C:/site/hypergrade.com/robots.txt
